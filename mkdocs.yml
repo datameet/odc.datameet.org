@@ -1,6 +1,7 @@
 site_name: OpenDataCamp
 site_url: https://odc.datameet.org
-site_dir: website
+site_dir: docs
+docs_dir: content
 nav:
     - Home: index.md
     - About: about.md
@@ -54,7 +55,7 @@ markdown_extensions:
   - pymdownx.emoji
 
 repo_url: https://github.com/datameet/odc.datameet.org
-edit_uri: edit/main
+edit_uri: edit/master/content
 copyright: Copyright &copy; 2021 - Creative Commons Attribution License
 
 
